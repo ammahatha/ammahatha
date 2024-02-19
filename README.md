@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+1.	Asher Mahatha ammahatha@my.waketech.edu
+2.	My GitHub has 1 repository "ammahatha."
+3.	The repository created has 1 file, titled "README."
+4.	Under the list of Github repositories, I selected "ammahatha." Next, I cloned the respoitory. 
+
 
 <!--
 **ammahatha/ammahatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
